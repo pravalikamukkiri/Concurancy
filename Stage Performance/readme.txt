@@ -1,0 +1,2 @@
+i implemented this program using mutex and mutex locks,here stages,musicians and coordinators are threads and each works with respect to the functions.
+when a mucisian comes he/she waits upto the maximum wait time and if they get a chance to perform before they ll use that chance, else they ll leave. a musician waits for his tshirt as long as we get it after performance.

@@ -1,0 +1,2 @@
+implemented this program by using mutexes , mutex locks and appropriate mutex conditions.
+companies,vaccination zones and students are threads. when a company prepares batch of vaccines it sends signals to vaccination zones and voccination zones start vaccinating to students. a student can come to vaccination zone upto 3 times, if he/she didn't get antibodies even are three vaccinations,they are sent back.S
